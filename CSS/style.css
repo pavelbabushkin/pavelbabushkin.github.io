@@ -1,0 +1,36 @@
+			body{
+				background: url(../Im/1.jpg) center center no-repeat  fixed;  
+				background-size: cover;
+				background-color: #cccccc;
+				margin-left: 1%;
+				margin-right: 1%;
+				padding: 10px 10px 10px 10px;
+				font-family: Lucida Sans Unicode, Verdana, sans-serif;
+				}
+			h4 {
+				font-weight: bold;
+			}
+			table {
+				table-layout: fixed;
+				width: 100%;
+				padding: 1px;
+				text-align: center;
+				vertical-align: center;
+				font-family: Lucida Sans Unicode, Verdana, sans-serif;
+				}
+			#shedul{}
+
+			th{
+    				background-color: #708090;
+				//opacity: 0.5;
+				width: 20%;
+    				color: black;
+				font-family: Verdana, sans-serif;
+				}
+			td{
+				//background-color: #F5F5F5;
+				//opacity: 0.5;
+				border-bottom: 1px solid #ddd;
+				word-wrap: break-word;
+				}
+			td:hover {background-color: #f5f5f5;}
