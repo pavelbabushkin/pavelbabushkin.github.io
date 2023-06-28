@@ -15,14 +15,17 @@
 				margin: 1px;
 				font-size: 16px;
 				border: 1px solid Gainsboro;
+				width: 100%;
 							
 			}
+<!--
 			@media screen (max-width: 1024px) {
 				.Tith1 {font-size: 200%;}
 				.Tith2 {font-size: 150%;}
 				.table {font-size: 100%;}
 				.Canva {width: 100%;}
 			}
+-->
 			.t1 {
   				background-color: #FFFAFA;
 				display: grid;
