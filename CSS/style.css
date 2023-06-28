@@ -8,13 +8,10 @@
 				font-family: Lucida Sans Unicode, Verdana, sans-serif;
 				overflow-y: auto;
 				}
-			h4 {
-				font-weight: bold;
-				font-size: 100%;
 			}
 			.table {
 				display: inline-grid;
-				grid-template-columns: 10% 90%;
+				grid-template-columns: 20% 80%;
 				margin: 1px;
 				font-size: 16px;
 				border: 1px solid Gainsboro;
@@ -22,9 +19,8 @@
 							
 			}
 			@media screen and (max-width: 1024px) {
-				h1 {font-size: 200%;}
-				h2 {font-size: 150%;}
-				h4 {font-size: 100%;}
+				.Tith1 {font-size: 200%;}
+				.Tith2 {font-size: 150%;}
 				.table {font-size: 100%;}
 			}
 			.t1 {
