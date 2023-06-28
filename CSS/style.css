@@ -10,17 +10,22 @@
 				}
 			h4 {
 				font-weight: bold;
-				font-size: 16px;
-			}
-			p {
-				font-size: 16px;
+				font-size: 100%;
 			}
 			.table {
 				display: inline-grid;
 				grid-template-columns: 10% 90%;
 				margin: 1px;
+				font-size: 16px;
 				border: 1px solid Gainsboro;
 				width: 100%;
+							
+			}
+			@media screen and (max-width: 1024px) {
+				h1 {font-size: 200%;}
+				h2 {font-size: 150%;}
+				h4 {font-size: 100%;}
+				.table {font-size: 100%;}
 			}
 			.t1 {
   				background-color: #FFFAFA;
@@ -45,19 +50,16 @@
 			}
 			#sh1 {
 				display: grid;
-				font-size: 16px;
 				padding: 1%;
 				word-wrap: break-word;
 			}
 			#sh2 {
 				display: grid;
-				font-size: 16px;
 				padding: 1%;
 				word-wrap: break-word;
 			}
 			#sh3 {
 				display: grid;
-				font-size: 16px;
 				padding: 1%;
 				word-wrap: break-word;
 			}
