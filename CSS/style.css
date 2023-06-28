@@ -16,8 +16,8 @@
 			}
 			.table {
 				display: inline-grid;
-				grid-template-columns: 10% 90%;
 				margin: 1px;
+				border: 1px solid Gainsboro;
 			}
 			.t1 {
   				background-color: #FFFAFA;
