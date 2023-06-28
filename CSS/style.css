@@ -16,6 +16,7 @@
 			}
 			.table {
 				display: inline-grid;
+				grid-template-columns: 10% 90%;
 				margin: 1px;
 				border: 1px solid Gainsboro;
 				width: 100%;
@@ -47,16 +48,19 @@
 			#sh1 {
 				display: grid;
 				font-size: 16px;
+				padding: 1%;
 				word-wrap: break-word;
 			}
 			#sh2 {
 				display: grid;
 				font-size: 16px;
+				padding: 1%;
 				word-wrap: break-word;
 			}
 			#sh3 {
 				display: grid;
 				font-size: 16px;
+				padding: 1%;
 				word-wrap: break-word;
 			}
 			#sh1:hover {background-color: #f5f5f5;}
