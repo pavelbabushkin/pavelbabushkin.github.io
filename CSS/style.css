@@ -10,16 +10,13 @@
 			h4 {
 				font-weight: bold;
 			}
-			//table {
-			//	table-layout: fixed;
-			//	width: 100%;
-			//	padding: 1px;
-			//	text-align: center;
-			//	vertical-align: center;
-			//	font-family: Lucida Sans Unicode, Verdana, sans-serif;
-			//	}
-			#shedul{}
-
+			table {
+				table-layout: fixed;
+				padding: 1px;
+				margin: 1px;
+				text-align: center;
+				font-family: Lucida Sans Unicode, Verdana, sans-serif;
+				}
 			th{
     				background-color: #708090;
 				//opacity: 0.5;
@@ -29,7 +26,6 @@
 				}
 			td{
 				//background-color: #F5F5F5;
-				//opacity: 0.5;
 				border-bottom: 1px solid #ddd;
 				word-wrap: break-word;
 				}
