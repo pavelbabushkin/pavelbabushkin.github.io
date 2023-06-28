@@ -28,7 +28,6 @@
   				place-items: center;
 				border: 1px solid Gainsboro;
 				font-weight: bold;
-				word-wrap: break-word;
 			}
 			.t2 {
   				background-color: #FFFAFA;
@@ -36,7 +35,6 @@
   				place-items: center;
 				border: 1px solid Gainsboro;
 				font-weight: bold;
-				word-wrap: break-word;
 			}
 			.t3 {
   				background-color: #FFFAFA;
@@ -44,7 +42,6 @@
   				place-items: center;
 				border: 1px solid Gainsboro;
 				font-weight: bold;
-				word-wrap: break-word;
 			}
 			#sh1 {
 				display: grid;
