@@ -44,6 +44,18 @@
 				font-weight: bold;
 				font-size: 16;
 			}
+			#sh1 {
+				display: grid;
+				font-size: 16;
+			}
+			#sh2 {
+				display: grid;
+				font-size: 16;
+			}
+			#sh3 {
+				display: grid;
+				font-size: 16;
+			}
 			#sh1:hover {background-color: #f5f5f5;}
 			#sh2:hover {background-color: #f5f5f5;}
 			#sh3:hover {background-color: #f5f5f5;}
