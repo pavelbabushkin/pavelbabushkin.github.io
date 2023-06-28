@@ -17,31 +17,32 @@
 			.table {
 				display: grid;
 				grid-template-columns: 20% 80%;
+				font-size: 16;
 				margin: 1px;
 			}
 			.t1 {
   				background-color: #FFFAFA;
 				display: grid;
   				place-items: center;
+				padding: 0;
 				border: 1px solid Gainsboro;
 				font-weight: bold;
-				font-size: 16;
 			}
 			.t2 {
   				background-color: #FFFAFA;
 				display: grid;
   				place-items: center;
+				padding: 0;
 				border: 1px solid Gainsboro;
 				font-weight: bold;
-				font-size: 16;
 			}
 			.t3 {
   				background-color: #FFFAFA;
 				display: grid;
   				place-items: center;
+				padding: 0;
 				border: 1px solid Gainsboro;
 				font-weight: bold;
-				font-size: 16;
 			}
 			#sh1 {
 				display: grid;
