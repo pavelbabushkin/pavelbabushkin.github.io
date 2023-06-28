@@ -10,14 +10,14 @@
 			h4 {
 				font-weight: bold;
 			}
-			table {
-				table-layout: fixed;
-				width: 100%;
-				padding: 1px;
-				text-align: center;
-				vertical-align: center;
-				font-family: Lucida Sans Unicode, Verdana, sans-serif;
-				}
+			//table {
+			//	table-layout: fixed;
+			//	width: 100%;
+			//	padding: 1px;
+			//	text-align: center;
+			//	vertical-align: center;
+			//	font-family: Lucida Sans Unicode, Verdana, sans-serif;
+			//	}
 			#shedul{}
 
 			th{
