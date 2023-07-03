@@ -24,7 +24,7 @@ function showHide() {
 //Условте для формирования дней недели начиная с Пн 
 	if (date.getDay() == 1) {
 		var a = 0;
-		for (let i = 0; i < 3; i++) {
+		for (let i = 0; i < 5; i=i+2) {
 			dm = String(date.getDate() + i);
 		//Формирую название id для таблицы с расписанием
 			sh = 'sh' + String(Math.pow(i, 0) + a);
