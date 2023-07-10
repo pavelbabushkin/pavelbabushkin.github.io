@@ -7,7 +7,7 @@
 	type: 'bar',
 		data: {
 			datasets: [{
-				data: [116.7, 116.7, 66.5],
+				data: [100, 85.7, 114.2],
 				label: 'Процент посещаемости',
 		       		borderWidth: 1,
 				backgroundColor: '#DCDCDC',
